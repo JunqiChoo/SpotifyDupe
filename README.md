@@ -1,4 +1,4 @@
-# 🎧 Spotify Landing Page – Vue.js + Bootstrap
+# Spotify Landing Page – Vue.js + Bootstrap
 
 
 ## Screenshots
