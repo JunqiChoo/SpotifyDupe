@@ -53,8 +53,8 @@ This project mimics the design of **Spotify's landing page**. It focuses on usin
 
 ## SETUP
 
-cd client
-npm run dev
+- cd client
+- npm run dev
 
 
 
