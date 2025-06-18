@@ -2,8 +2,7 @@
 
 
 ## Screenshots
-![Desktop Screenshot](/FRONTEND/client/src/assets/desktop_view.png
-)
+![Desktop Screenshot](desktop_view.png)
 
 A responsive **Spotify-themed landing page** created using **Vue.js 3** and **Bootstrap 5**.  
 This project is designed as a personal exercise to **practice the Bootstrap Grid System** and improve front-end layout building skills.
